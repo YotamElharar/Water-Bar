@@ -1,2 +1,2 @@
 # Water-Bar
-A water bar system hardware production project and assembly using electronic components.
+Please open and look at the attached files.
